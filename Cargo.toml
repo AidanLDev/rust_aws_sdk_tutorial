@@ -1,0 +1,6 @@
+[package]
+name = "rust_aws_sdk_tutorial"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
